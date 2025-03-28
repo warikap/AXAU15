@@ -1,0 +1,6 @@
+[submodule "lib/verilog-axis"]
+	path = lib/verilog-axis
+	url = https://github.com/warikap/verilog-axis.git
+[submodule "lib/verilog-ethernet"]
+	path = lib/verilog-ethernet
+	url = https://github.com/warikap/verilog-ethernet.git
